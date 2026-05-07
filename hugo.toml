@@ -1,0 +1,35 @@
+baseURL = 'https://neefrankie.github.io/slp3/'
+locale = 'zh-cn'
+title = '自然语言处理导论第三版'
+
+theme = ["hugo-book"]
+
+enableRobotsTXT = true
+hasCJKLanguage = true
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.parser]
+            wrapStandAloneImageWithinParagraph = false
+            [markup.goldmark.parser.attribute]
+                block = true
+                title = true
+        [markup.goldmark.renderer]
+            unsafe = true
+        [markup.goldmark.extensions]
+            [markup.goldmark.extensions.passthrough]
+                enable = true
+                [markup.goldmark.extensions.passthrough.delimiters]
+                    inline = [['$', '$'], ['\(', '\)']]
+                    block = [['\[', '\]'], ['$$', '$$']]
+
+[params]
+    math = true
+    BookTheme = 'auto'
+    BookSection = '*'
+
+    
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
