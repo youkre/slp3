@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2026-02-06'
 weight: 112
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第15章 自动语音识别
 

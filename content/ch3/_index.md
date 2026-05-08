@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2025-07-19'
 weight: 12
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第3章 N元语言模型
 

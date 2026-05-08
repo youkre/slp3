@@ -6,6 +6,9 @@ isCJKLanguage: true
 keywords: []
 summary: 《Speech and Language Processing》（2025版草稿）中文版
 date: '2026-05-07'
+params:
+  math: false
+  virtual: false
 ---
 
 <article class="book-cover text-center">

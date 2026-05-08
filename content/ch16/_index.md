@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2026-02-07'
 weight: 119
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第16章 文本到语音
 

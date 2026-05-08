@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2025-12-22'
 weight: 20
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第4章 罗辑回归与文本分类
 

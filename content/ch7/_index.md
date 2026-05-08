@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2025-12-26'
 weight: 53
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第 7 章 大语言模型
 

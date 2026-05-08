@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2026-01-22'
 weight: 36
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第5章 嵌入
 

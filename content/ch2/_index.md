@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2025-12-20'
 weight: 2
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第 2 章 词与词元
 

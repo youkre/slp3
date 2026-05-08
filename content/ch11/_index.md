@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2025-12-29'
 weight: 82
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第11章 信息检索与检索增强生成
 

@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2025-11-01'
 weight: 61
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第 8 章 Transformer
 

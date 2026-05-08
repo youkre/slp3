@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2025-12-17'
 weight: 46
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第 6 章 神经网络
 

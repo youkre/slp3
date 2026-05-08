@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2026-01-07'
 weight: 77
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第 10 章 训练后阶段：指令微调、对齐与测试时计算
 

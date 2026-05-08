@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2026-02-04'
 weight: 105
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第14章 语音学与语音特征提取
 

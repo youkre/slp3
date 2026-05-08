@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2025-12-18'
 weight: 96
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第 13 章 循环神经网络与长短期记忆网络
 

@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2026-01-07'
 weight: 1
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第 1 章 引言
 

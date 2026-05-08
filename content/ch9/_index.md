@@ -7,7 +7,12 @@ keywords: []
 summary: ''
 date: '2025-12-19'
 weight: 71
+params:
+  math: true
+  virtual: false
 ---
+
+{{< katex />}}
 
 # 第 9 章 掩码语言模型
 
