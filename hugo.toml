@@ -7,6 +7,8 @@ theme = ["hugo-book"]
 enableRobotsTXT = true
 hasCJKLanguage = true
 
+googleAnalytics = "G-610SG35JF8"
+
 [markup]
     [markup.goldmark]
         [markup.goldmark.parser]
