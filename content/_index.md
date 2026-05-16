@@ -34,7 +34,7 @@ params:
 <p class="book-translators">译者：V</p>
 
 
-<p>当前译文基于 Draft of August 24, 2025</p>
+<p>当前译文基于 2025年8月24日草稿版</p>
 
 
 <p>译文仅供学习参考，请勿转载或用于商业用途。</p>
